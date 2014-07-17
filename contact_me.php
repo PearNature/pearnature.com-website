@@ -22,7 +22,7 @@ $message = $_POST['message'];
 // --- ENTER YOUR EMAIL ADDRESS HERE
 // -------------------------------------------
 
-$to = 'youremail@example.com';
+$to = 'dragon.d.firedrake@gmail.com';
 
 // -------------------------------------------
 
